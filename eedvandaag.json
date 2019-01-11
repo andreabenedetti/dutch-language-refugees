@@ -1,0 +1,3503 @@
+[
+ {
+   "keyword": "aandacht",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "aanpakken",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "aanpassen",
+   "angry": 4,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "aanranders",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 3,
+   "wow": null,
+   "tot": 3
+ },
+ {
+   "keyword": "aanslag",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "aardig",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 3,
+   "wow": null,
+   "tot": 3
+ },
+ {
+   "keyword": "aardige",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "achtergrond",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 9
+ },
+ {
+   "keyword": "actie",
+   "angry": null,
+   "haha": null,
+   "love": 10,
+   "sad": null,
+   "wow": null,
+   "tot": 10
+ },
+ {
+   "keyword": "activiste",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "afghaan",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "afghanen",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "afghanistan",
+   "angry": null,
+   "haha": null,
+   "love": 12,
+   "sad": null,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "afkeer",
+   "angry": null,
+   "haha": null,
+   "love": 3,
+   "sad": 3,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "africa",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "afrika",
+   "angry": 4,
+   "haha": 4,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 13
+ },
+ {
+   "keyword": "allemaal",
+   "angry": null,
+   "haha": null,
+   "love": 17,
+   "sad": 14,
+   "wow": 17,
+   "tot": 48
+ },
+ {
+   "keyword": "allochtonen",
+   "angry": null,
+   "haha": 7,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 12
+ },
+ {
+   "keyword": "amsterdam",
+   "angry": null,
+   "haha": null,
+   "love": 3,
+   "sad": null,
+   "wow": null,
+   "tot": 3
+ },
+ {
+   "keyword": "angst",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "asiel",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "asielzoeker",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 12
+ },
+ {
+   "keyword": "asielzoekers",
+   "angry": 14,
+   "haha": 12,
+   "love": 9,
+   "sad": 5,
+   "wow": 12,
+   "tot": 52
+ },
+ {
+   "keyword": "aso",
+   "angry": 6,
+   "haha": 7,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 13
+ },
+ {
+   "keyword": "assad",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "assaulted",
+   "angry": null,
+   "haha": null,
+   "love": 3,
+   "sad": null,
+   "wow": null,
+   "tot": 3
+ },
+ {
+   "keyword": "australi",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "auto",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "azc",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "baas",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "bad",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "bah",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 8,
+   "tot": 16
+ },
+ {
+   "keyword": "bananen",
+   "angry": null,
+   "haha": null,
+   "love": 10,
+   "sad": null,
+   "wow": null,
+   "tot": 10
+ },
+ {
+   "keyword": "bang",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "bed",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "beetje",
+   "angry": 6,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "begin",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "begrijp",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "belasting",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "beleid",
+   "angry": 8,
+   "haha": 4,
+   "love": 7,
+   "sad": 5,
+   "wow": null,
+   "tot": 24
+ },
+ {
+   "keyword": "bepaalde",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "beroep",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 9
+ },
+ {
+   "keyword": "beschermen",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "best",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "betalen",
+   "angry": 11,
+   "haha": 4,
+   "love": null,
+   "sad": 7,
+   "wow": 12,
+   "tot": 34
+ },
+ {
+   "keyword": "bevolking",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "bewijzen",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "bewoners",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": 6,
+   "tot": 10
+ },
+ {
+   "keyword": "bijstand",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "blij",
+   "angry": 4,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "blijven",
+   "angry": 17,
+   "haha": null,
+   "love": null,
+   "sad": 7,
+   "wow": 20,
+   "tot": 44
+ },
+ {
+   "keyword": "boerka",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "boodschappen",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "boot",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "bouwen",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 12
+ },
+ {
+   "keyword": "brabant",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "bron",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "brood",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "buren",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "burgemeester",
+   "angry": 4,
+   "haha": 17,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 21
+ },
+ {
+   "keyword": "burger",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "burgers",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 13
+ },
+ {
+   "keyword": "buurman",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "calais",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "cda",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": 6,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "china",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "china's",
+   "angry": null,
+   "haha": null,
+   "love": 3,
+   "sad": null,
+   "wow": null,
+   "tot": 3
+ },
+ {
+   "keyword": "chronisch",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "circuit",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "commentaar",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "contact",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "crimineel",
+   "angry": 6,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": 9,
+   "tot": 21
+ },
+ {
+   "keyword": "criminele",
+   "angry": null,
+   "haha": 16,
+   "love": null,
+   "sad": null,
+   "wow": 10,
+   "tot": 26
+ },
+ {
+   "keyword": "criminelen",
+   "angry": 5,
+   "haha": 11,
+   "love": null,
+   "sad": 4,
+   "wow": 8,
+   "tot": 28
+ },
+ {
+   "keyword": "culturen",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "cultuur",
+   "angry": 8,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "dank",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": 6,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "deal",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "deel",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "delen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "denk",
+   "angry": null,
+   "haha": null,
+   "love": 15,
+   "sad": null,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "direct",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 11
+ },
+ {
+   "keyword": "discriminatie",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "discussie",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 9,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "dom",
+   "angry": null,
+   "haha": 13,
+   "love": 10,
+   "sad": 9,
+   "wow": null,
+   "tot": 32
+ },
+ {
+   "keyword": "domme",
+   "angry": null,
+   "haha": 5,
+   "love": 7,
+   "sad": 8,
+   "wow": null,
+   "tot": 20
+ },
+ {
+   "keyword": "dood",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "duidelijk",
+   "angry": null,
+   "haha": 4,
+   "love": 7,
+   "sad": 8,
+   "wow": null,
+   "tot": 19
+ },
+ {
+   "keyword": "dwingen",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "echte",
+   "angry": 6,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "eerlijke",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "eigen",
+   "angry": 30,
+   "haha": 27,
+   "love": 25,
+   "sad": 24,
+   "wow": 30,
+   "tot": 136
+ },
+ {
+   "keyword": "elite",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "elkaar",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 11
+ },
+ {
+   "keyword": "empathie",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 6,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "engeland",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 10
+ },
+ {
+   "keyword": "enige",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 7,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "enkeltje",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 10
+ },
+ {
+   "keyword": "erdogan",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": 7,
+   "wow": 6,
+   "tot": 19
+ },
+ {
+   "keyword": "erg",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 14
+ },
+ {
+   "keyword": "erger",
+   "angry": 4,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "eruit",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 12,
+   "tot": 12
+ },
+ {
+   "keyword": "eu",
+   "angry": 21,
+   "haha": 7,
+   "love": null,
+   "sad": 11,
+   "wow": 8,
+   "tot": 47
+ },
+ {
+   "keyword": "euro",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "europa",
+   "angry": 17,
+   "haha": 5,
+   "love": 6,
+   "sad": 15,
+   "wow": null,
+   "tot": 43
+ },
+ {
+   "keyword": "extreem",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "fake",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "familie",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": 5,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "fantastisch",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "fb",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "feit",
+   "angry": 5,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": 10,
+   "tot": 20
+ },
+ {
+   "keyword": "feiten",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 8,
+   "tot": 8
+ },
+ {
+   "keyword": "fijn",
+   "angry": 4,
+   "haha": 4,
+   "love": null,
+   "sad": 5,
+   "wow": 5,
+   "tot": 18
+ },
+ {
+   "keyword": "frankrijk",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 14
+ },
+ {
+   "keyword": "gaan",
+   "angry": null,
+   "haha": null,
+   "love": 17,
+   "sad": null,
+   "wow": 36,
+   "tot": 53
+ },
+ {
+   "keyword": "gaat",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 26,
+   "tot": 26
+ },
+ {
+   "keyword": "gajes",
+   "angry": 4,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "garanderen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 6,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "gasten",
+   "angry": 19,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": 14,
+   "tot": 38
+ },
+ {
+   "keyword": "geboren",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "gedoogd",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "gedragen",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "gedwongen",
+   "angry": 9,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 9,
+   "tot": 18
+ },
+ {
+   "keyword": "geholpen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "gekker",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "geld",
+   "angry": 12,
+   "haha": 16,
+   "love": 9,
+   "sad": 6,
+   "wow": 12,
+   "tot": 55
+ },
+ {
+   "keyword": "geloof",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "geloven",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "gelukkig",
+   "angry": null,
+   "haha": 6,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 10
+ },
+ {
+   "keyword": "gelukszoekers",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 11
+ },
+ {
+   "keyword": "gelukzoekers",
+   "angry": 6,
+   "haha": 9,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 20
+ },
+ {
+   "keyword": "gelul",
+   "angry": null,
+   "haha": null,
+   "love": 7,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "gemaakt",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "gemeente",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 7,
+   "wow": 5,
+   "tot": 12
+ },
+ {
+   "keyword": "genoeg",
+   "angry": 14,
+   "haha": 8,
+   "love": null,
+   "sad": null,
+   "wow": 16,
+   "tot": 38
+ },
+ {
+   "keyword": "geweld",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "geweldig",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": 4,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "gezin",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "goed",
+   "angry": 21,
+   "haha": 28,
+   "love": 46,
+   "sad": 31,
+   "wow": 22,
+   "tot": 148
+ },
+ {
+   "keyword": "goede",
+   "angry": 5,
+   "haha": 4,
+   "love": null,
+   "sad": 6,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "goeie",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "gratis",
+   "angry": 8,
+   "haha": 30,
+   "love": null,
+   "sad": null,
+   "wow": 18,
+   "tot": 56
+ },
+ {
+   "keyword": "grens",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 13
+ },
+ {
+   "keyword": "grenzen",
+   "angry": 8,
+   "haha": 5,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 18
+ },
+ {
+   "keyword": "groep",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": 6,
+   "tot": 18
+ },
+ {
+   "keyword": "groot",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "grote",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "hard",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "harder",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "helaas",
+   "angry": 6,
+   "haha": 4,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "held",
+   "angry": null,
+   "haha": null,
+   "love": 7,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "helemaal",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 24,
+   "tot": 24
+ },
+ {
+   "keyword": "helpen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": 5,
+   "tot": 9
+ },
+ {
+   "keyword": "herkomst",
+   "angry": 15,
+   "haha": 10,
+   "love": null,
+   "sad": null,
+   "wow": 14,
+   "tot": 39
+ },
+ {
+   "keyword": "hoop",
+   "angry": null,
+   "haha": 4,
+   "love": 4,
+   "sad": 4,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "huilie",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "huis",
+   "angry": 48,
+   "haha": 24,
+   "love": null,
+   "sad": 17,
+   "wow": 42,
+   "tot": 131
+ },
+ {
+   "keyword": "huizen",
+   "angry": 13,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 11,
+   "tot": 24
+ },
+ {
+   "keyword": "humor",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "iedereen",
+   "angry": 14,
+   "haha": null,
+   "love": 17,
+   "sad": 11,
+   "wow": 26,
+   "tot": 68
+ },
+ {
+   "keyword": "iemand",
+   "angry": null,
+   "haha": 13,
+   "love": 11,
+   "sad": 14,
+   "wow": null,
+   "tot": 38
+ },
+ {
+   "keyword": "illegaal",
+   "angry": 12,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 12,
+   "tot": 24
+ },
+ {
+   "keyword": "integreren",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "jammer",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "jong",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "journalist",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 8,
+   "tot": 8
+ },
+ {
+   "keyword": "kader",
+   "angry": null,
+   "haha": null,
+   "love": 8,
+   "sad": 8,
+   "wow": null,
+   "tot": 16
+ },
+ {
+   "keyword": "kans",
+   "angry": null,
+   "haha": 7,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "kapot",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 11
+ },
+ {
+   "keyword": "karskens",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 14,
+   "tot": 14
+ },
+ {
+   "keyword": "kijken",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "kind",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "kinderen",
+   "angry": null,
+   "haha": 5,
+   "love": 22,
+   "sad": 21,
+   "wow": 7,
+   "tot": 55
+ },
+ {
+   "keyword": "klachten",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "klagen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "klote",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "koloniale",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "komen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 29,
+   "tot": 29
+ },
+ {
+   "keyword": "kop",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 7
+ },
+ {
+   "keyword": "kosten",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 13
+ },
+ {
+   "keyword": "kraken",
+   "angry": 23,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 23
+ },
+ {
+   "keyword": "krakers",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 14
+ },
+ {
+   "keyword": "krijgen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 21,
+   "wow": 20,
+   "tot": 41
+ },
+ {
+   "keyword": "kust",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "land",
+   "angry": 78,
+   "haha": 44,
+   "love": 17,
+   "sad": 21,
+   "wow": 65,
+   "tot": 225
+ },
+ {
+   "keyword": "landen",
+   "angry": 19,
+   "haha": null,
+   "love": null,
+   "sad": 12,
+   "wow": 16,
+   "tot": 47
+ },
+ {
+   "keyword": "landje",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "leger",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 18
+ },
+ {
+   "keyword": "lekker",
+   "angry": 21,
+   "haha": 6,
+   "love": null,
+   "sad": 10,
+   "wow": 16,
+   "tot": 53
+ },
+ {
+   "keyword": "leven",
+   "angry": 10,
+   "haha": null,
+   "love": 10,
+   "sad": 11,
+   "wow": null,
+   "tot": 31
+ },
+ {
+   "keyword": "liegt",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "link",
+   "angry": null,
+   "haha": 10,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 10
+ },
+ {
+   "keyword": "links",
+   "angry": 12,
+   "haha": 11,
+   "love": 11,
+   "sad": null,
+   "wow": 15,
+   "tot": 49
+ },
+ {
+   "keyword": "linkse",
+   "angry": 7,
+   "haha": 4,
+   "love": 15,
+   "sad": null,
+   "wow": 7,
+   "tot": 33
+ },
+ {
+   "keyword": "lui",
+   "angry": 16,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": 15,
+   "tot": 36
+ },
+ {
+   "keyword": "lul",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "maatschappij",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "mabel",
+   "angry": null,
+   "haha": 18,
+   "love": null,
+   "sad": null,
+   "wow": 18,
+   "tot": 36
+ },
+ {
+   "keyword": "man",
+   "angry": 14,
+   "haha": null,
+   "love": 23,
+   "sad": 18,
+   "wow": null,
+   "tot": 55
+ },
+ {
+   "keyword": "mannen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 17,
+   "wow": null,
+   "tot": 17
+ },
+ {
+   "keyword": "marokkanen",
+   "angry": null,
+   "haha": 7,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "media",
+   "angry": null,
+   "haha": 18,
+   "love": 6,
+   "sad": null,
+   "wow": null,
+   "tot": 24
+ },
+ {
+   "keyword": "meewerken",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "meisje",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "mening",
+   "angry": null,
+   "haha": null,
+   "love": 12,
+   "sad": 11,
+   "wow": null,
+   "tot": 23
+ },
+ {
+   "keyword": "mens",
+   "angry": 5,
+   "haha": null,
+   "love": 12,
+   "sad": 7,
+   "wow": null,
+   "tot": 24
+ },
+ {
+   "keyword": "mensen",
+   "angry": 60,
+   "haha": 46,
+   "love": 62,
+   "sad": 88,
+   "wow": 71,
+   "tot": 327
+ },
+ {
+   "keyword": "mevrouw",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": 14,
+   "wow": null,
+   "tot": 18
+ },
+ {
+   "keyword": "midden",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "migrant",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 12
+ },
+ {
+   "keyword": "migranten",
+   "angry": 5,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": 9,
+   "tot": 20
+ },
+ {
+   "keyword": "migratie",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 9
+ },
+ {
+   "keyword": "military",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "moeilijk",
+   "angry": null,
+   "haha": 8,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "mooi",
+   "angry": 5,
+   "haha": 4,
+   "love": 33,
+   "sad": 28,
+   "wow": null,
+   "tot": 70
+ },
+ {
+   "keyword": "mooie",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": 5,
+   "tot": 9
+ },
+ {
+   "keyword": "moslims",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "natuurlijk",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 7,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "nederland",
+   "angry": 50,
+   "haha": 43,
+   "love": 15,
+   "sad": 20,
+   "wow": 44,
+   "tot": 172
+ },
+ {
+   "keyword": "nederlander",
+   "angry": 13,
+   "haha": 5,
+   "love": null,
+   "sad": 5,
+   "wow": 10,
+   "tot": 33
+ },
+ {
+   "keyword": "nederlanders",
+   "angry": 28,
+   "haha": 21,
+   "love": 9,
+   "sad": 12,
+   "wow": 21,
+   "tot": 91
+ },
+ {
+   "keyword": "nederlands",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": 7,
+   "tot": 20
+ },
+ {
+   "keyword": "nederlandse",
+   "angry": 7,
+   "haha": 23,
+   "love": null,
+   "sad": 7,
+   "wow": null,
+   "tot": 37
+ },
+ {
+   "keyword": "nee",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 17,
+   "wow": null,
+   "tot": 17
+ },
+ {
+   "keyword": "negatief",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": 4,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "negatieve",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "nergens",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "niemand",
+   "angry": 12,
+   "haha": 10,
+   "love": null,
+   "sad": 9,
+   "wow": null,
+   "tot": 31
+ },
+ {
+   "keyword": "nieuwe",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "nieuws",
+   "angry": null,
+   "haha": 18,
+   "love": 14,
+   "sad": 13,
+   "wow": 5,
+   "tot": 50
+ },
+ {
+   "keyword": "niks",
+   "angry": 19,
+   "haha": null,
+   "love": 10,
+   "sad": null,
+   "wow": 26,
+   "tot": 55
+ },
+ {
+   "keyword": "nodig",
+   "angry": null,
+   "haha": 8,
+   "love": null,
+   "sad": 8,
+   "wow": 11,
+   "tot": 27
+ },
+ {
+   "keyword": "noordzij",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 10
+ },
+ {
+   "keyword": "normaal",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 9,
+   "tot": 17
+ },
+ {
+   "keyword": "normen",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "olie",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "onaardig",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "onderzoek",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "ontmoet",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "ontroerend",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": 5,
+   "wow": null,
+   "tot": 10
+ },
+ {
+   "keyword": "ontvangen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "onzin",
+   "angry": null,
+   "haha": 10,
+   "love": null,
+   "sad": null,
+   "wow": 9,
+   "tot": 19
+ },
+ {
+   "keyword": "ooit",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "oorlog",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": 5,
+   "wow": 12,
+   "tot": 21
+ },
+ {
+   "keyword": "oosten",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": 4,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "open",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "oplossing",
+   "angry": 5,
+   "haha": null,
+   "love": 4,
+   "sad": 8,
+   "wow": null,
+   "tot": 17
+ },
+ {
+   "keyword": "opmerking",
+   "angry": null,
+   "haha": 7,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "oppakken",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 8,
+   "tot": 19
+ },
+ {
+   "keyword": "optreden",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 11
+ },
+ {
+   "keyword": "opzouten",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 14
+ },
+ {
+   "keyword": "oranje",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "oss",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 14,
+   "wow": null,
+   "tot": 14
+ },
+ {
+   "keyword": "ouderen",
+   "angry": null,
+   "haha": null,
+   "love": 8,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "overduin",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "paar",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "pakken",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "partij",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": 4,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "partijen",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": 4,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "paspoort",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "persoonlijk",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 6,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "perspectief",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "plunderaars",
+   "angry": null,
+   "haha": 4,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "politie",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "politiek",
+   "angry": 5,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "populisme",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "populistisch",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "praat",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "prachtig",
+   "angry": null,
+   "haha": null,
+   "love": 10,
+   "sad": 8,
+   "wow": null,
+   "tot": 18
+ },
+ {
+   "keyword": "prachtige",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": 4,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "praten",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "prima",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "probleem",
+   "angry": 11,
+   "haha": 10,
+   "love": 7,
+   "sad": 10,
+   "wow": 14,
+   "tot": 52
+ },
+ {
+   "keyword": "problemen",
+   "angry": 5,
+   "haha": null,
+   "love": 4,
+   "sad": 6,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "propaganda",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "pvv",
+   "angry": null,
+   "haha": 15,
+   "love": 5,
+   "sad": 8,
+   "wow": null,
+   "tot": 28
+ },
+ {
+   "keyword": "racist",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": 7,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "ras",
+   "angry": null,
+   "haha": 12,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "reacties",
+   "angry": null,
+   "haha": null,
+   "love": 8,
+   "sad": 4,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "recht",
+   "angry": 14,
+   "haha": 4,
+   "love": null,
+   "sad": 5,
+   "wow": 11,
+   "tot": 34
+ },
+ {
+   "keyword": "rechten",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 10
+ },
+ {
+   "keyword": "rechts",
+   "angry": 5,
+   "haha": null,
+   "love": 7,
+   "sad": null,
+   "wow": 6,
+   "tot": 18
+ },
+ {
+   "keyword": "rechtse",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "regels",
+   "angry": null,
+   "haha": 7,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "regeltjes",
+   "angry": 6,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "regering",
+   "angry": 17,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": 15,
+   "tot": 36
+ },
+ {
+   "keyword": "respect",
+   "angry": 7,
+   "haha": null,
+   "love": 13,
+   "sad": null,
+   "wow": 11,
+   "tot": 31
+ },
+ {
+   "keyword": "retour",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "rijden",
+   "angry": 9,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "roepen",
+   "angry": 9,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "rotracist",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "ruimte",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 11
+ },
+ {
+   "keyword": "rusland",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "rutte",
+   "angry": 7,
+   "haha": 4,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "safia",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "samenleving",
+   "angry": 6,
+   "haha": 4,
+   "love": 8,
+   "sad": null,
+   "wow": null,
+   "tot": 18
+ },
+ {
+   "keyword": "schaam",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "schaeffer",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "schandalig",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "school",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "schrijven",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 13
+ },
+ {
+   "keyword": "schrijver",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "schuld",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "serieus",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "situatie",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 10,
+   "tot": 18
+ },
+ {
+   "keyword": "slaan",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "slachtoffers",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "slappe",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "slechte",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "snap",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "snel",
+   "angry": 12,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 18
+ },
+ {
+   "keyword": "soort",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": 11,
+   "tot": 30
+ },
+ {
+   "keyword": "soros",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "sorry",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "spreken",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "staan",
+   "angry": null,
+   "haha": 7,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "staat",
+   "angry": 10,
+   "haha": 14,
+   "love": 5,
+   "sad": 7,
+   "wow": null,
+   "tot": 36
+ },
+ {
+   "keyword": "stemmers",
+   "angry": null,
+   "haha": 9,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "straat",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 16
+ },
+ {
+   "keyword": "strafblad",
+   "angry": null,
+   "haha": 11,
+   "love": null,
+   "sad": null,
+   "wow": 9,
+   "tot": 20
+ },
+ {
+   "keyword": "stroom",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 5,
+   "tot": 5
+ },
+ {
+   "keyword": "stuk",
+   "angry": null,
+   "haha": null,
+   "love": 14,
+   "sad": 13,
+   "wow": null,
+   "tot": 27
+ },
+ {
+   "keyword": "stuur",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 5,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "taal",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": 6,
+   "wow": null,
+   "tot": 12
+ },
+ {
+   "keyword": "terug",
+   "angry": null,
+   "haha": 28,
+   "love": 12,
+   "sad": 13,
+   "wow": 38,
+   "tot": 91
+ },
+ {
+   "keyword": "terugsturen",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "thuis",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": 6,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "thuislanden",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "tijd",
+   "angry": null,
+   "haha": 14,
+   "love": 6,
+   "sad": null,
+   "wow": null,
+   "tot": 20
+ },
+ {
+   "keyword": "triest",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "trots",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "trump",
+   "angry": null,
+   "haha": 6,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 6
+ },
+ {
+   "keyword": "tuig",
+   "angry": 14,
+   "haha": 7,
+   "love": null,
+   "sad": 6,
+   "wow": 10,
+   "tot": 37
+ },
+ {
+   "keyword": "turkije",
+   "angry": 10,
+   "haha": 6,
+   "love": 4,
+   "sad": 13,
+   "wow": null,
+   "tot": 33
+ },
+ {
+   "keyword": "uitgeprocedeerd",
+   "angry": 37,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 37,
+   "tot": 74
+ },
+ {
+   "keyword": "uitgeprocedeerde",
+   "angry": 6,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 12
+ },
+ {
+   "keyword": "uitgezet",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "uitkering",
+   "angry": null,
+   "haha": null,
+   "love": 6,
+   "sad": 5,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "uitzetten",
+   "angry": 18,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": 15,
+   "tot": 38
+ },
+ {
+   "keyword": "vader",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "vakantie",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "vast",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "veilig",
+   "angry": 5,
+   "haha": null,
+   "love": 11,
+   "sad": null,
+   "wow": 8,
+   "tot": 24
+ },
+ {
+   "keyword": "verkeerd",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "verkrachter",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 7,
+   "wow": null,
+   "tot": 7
+ },
+ {
+   "keyword": "verkrachters",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 9,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "verlaten",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "verleden",
+   "angry": null,
+   "haha": 8,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "vermoord",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "vlag",
+   "angry": null,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "vliegtuig",
+   "angry": 6,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": 6,
+   "tot": 16
+ },
+ {
+   "keyword": "vlucht",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "vluchteling",
+   "angry": 5,
+   "haha": 5,
+   "love": 4,
+   "sad": 7,
+   "wow": null,
+   "tot": 21
+ },
+ {
+   "keyword": "vluchtelingen",
+   "angry": 19,
+   "haha": 18,
+   "love": 25,
+   "sad": 34,
+   "wow": 21,
+   "tot": 117
+ },
+ {
+   "keyword": "vluchten",
+   "angry": null,
+   "haha": null,
+   "love": 7,
+   "sad": 8,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "volk",
+   "angry": 8,
+   "haha": 7,
+   "love": 4,
+   "sad": 10,
+   "wow": 10,
+   "tot": 39
+ },
+ {
+   "keyword": "voorbeeld",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "vrachtwagen",
+   "angry": 7,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 14
+ },
+ {
+   "keyword": "vrolijk",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "vrouw",
+   "angry": 5,
+   "haha": 7,
+   "love": null,
+   "sad": 7,
+   "wow": 8,
+   "tot": 27
+ },
+ {
+   "keyword": "vrouwen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 10,
+   "wow": null,
+   "tot": 10
+ },
+ {
+   "keyword": "vvd",
+   "angry": 10,
+   "haha": 10,
+   "love": 6,
+   "sad": 5,
+   "wow": null,
+   "tot": 31
+ },
+ {
+   "keyword": "waarheid",
+   "angry": null,
+   "haha": 8,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "walusimbi",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 11,
+   "tot": 22
+ },
+ {
+   "keyword": "war",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "week",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "weet",
+   "angry": null,
+   "haha": null,
+   "love": 20,
+   "sad": null,
+   "wow": null,
+   "tot": 20
+ },
+ {
+   "keyword": "wegwezen",
+   "angry": 8,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 8,
+   "tot": 16
+ },
+ {
+   "keyword": "weken",
+   "angry": 11,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 11
+ },
+ {
+   "keyword": "wereld",
+   "angry": 11,
+   "haha": 9,
+   "love": 17,
+   "sad": 9,
+   "wow": 18,
+   "tot": 64
+ },
+ {
+   "keyword": "werk",
+   "angry": 8,
+   "haha": 8,
+   "love": null,
+   "sad": null,
+   "wow": 15,
+   "tot": 31
+ },
+ {
+   "keyword": "werken",
+   "angry": 7,
+   "haha": 9,
+   "love": 14,
+   "sad": 8,
+   "wow": 8,
+   "tot": 46
+ },
+ {
+   "keyword": "werkt",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 6
+ },
+ {
+   "keyword": "westen",
+   "angry": null,
+   "haha": null,
+   "love": 5,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "westerlingen",
+   "angry": 5,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 5
+ },
+ {
+   "keyword": "westerse",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "wijf",
+   "angry": null,
+   "haha": null,
+   "love": 4,
+   "sad": null,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "wijk",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "wilders",
+   "angry": null,
+   "haha": 9,
+   "love": null,
+   "sad": null,
+   "wow": null,
+   "tot": 9
+ },
+ {
+   "keyword": "witte",
+   "angry": null,
+   "haha": 8,
+   "love": null,
+   "sad": null,
+   "wow": 6,
+   "tot": 14
+ },
+ {
+   "keyword": "wonen",
+   "angry": 13,
+   "haha": null,
+   "love": null,
+   "sad": 20,
+   "wow": null,
+   "tot": 33
+ },
+ {
+   "keyword": "woning",
+   "angry": 10,
+   "haha": null,
+   "love": null,
+   "sad": null,
+   "wow": 8,
+   "tot": 18
+ },
+ {
+   "keyword": "zelf",
+   "angry": null,
+   "haha": null,
+   "love": 20,
+   "sad": null,
+   "wow": null,
+   "tot": 20
+ },
+ {
+   "keyword": "zielig",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 4,
+   "wow": null,
+   "tot": 4
+ },
+ {
+   "keyword": "zien",
+   "angry": null,
+   "haha": null,
+   "love": 15,
+   "sad": null,
+   "wow": null,
+   "tot": 15
+ },
+ {
+   "keyword": "zorg",
+   "angry": 6,
+   "haha": 5,
+   "love": null,
+   "sad": null,
+   "wow": 7,
+   "tot": 18
+ },
+ {
+   "keyword": "zorgen",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "zoveel",
+   "angry": null,
+   "haha": null,
+   "love": null,
+   "sad": 8,
+   "wow": null,
+   "tot": 8
+ },
+ {
+   "keyword": "zweden",
+   "angry": null,
+   "haha": null,
+   "love": 16,
+   "sad": null,
+   "wow": null,
+   "tot": 16
+ }
+]
